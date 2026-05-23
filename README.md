@@ -1,5 +1,4 @@
 # Toxic_Comments_Classification
-# Toxic Comment Classification Project
 
 ## Overview
 
